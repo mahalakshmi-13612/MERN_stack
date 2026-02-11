@@ -6,7 +6,6 @@ The objective of this course is to learn MERN Stack full-stack web development. 
 
 ## STACK OVERVIEW
 ** MERN Stack is a combination of four JavaScript-based technologies used for full-stack web development.**
-** MongoDB is used to store application data in database form.**
 ** Express.js is used to create backend APIs and handle server logic.**
 ** React.js is used to design interactive user interfaces.**
 ** Node.js is used to run JavaScript on the server side.**
